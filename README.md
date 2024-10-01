@@ -1,1 +1,1 @@
-<img alt='alinahmettekin' src='https://stats-one-tau.vercel.app/api/top-langs/?username=alinahmettekin'>
+[![Top Langs](https://stats-one-tau.vercel.app/api/top-langs/?username=alinahmettekin)](https://github.com/alinahmettekin/github-readme-stats)
